@@ -1,0 +1,9 @@
+Script started on 2021-09-22 22:51:39-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;adrian@adrian-VirtualBox: ~[01;32madrian@adrian-VirtualBox[00m:[01;34m~[00m$ ./url.cpp
+./url.cpp: line 3: using: command not found
+./url.cpp: line 5: syntax error near unexpected token `('
+./url.cpp: line 5: `int main(int s,char* url_arr[]) {'
+]0;adrian@adrian-VirtualBox: ~[01;32madrian@adrian-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2021-09-22 22:52:15-05:00 [COMMAND_EXIT_CODE="2"]
